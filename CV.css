@@ -1,0 +1,87 @@
+body {
+    background-image : url(patterns/squared_metal.png);
+    padding : 0px;
+    margin : 0px;
+}
+.container {
+    padding : 10px;
+    margin : 15px;
+}
+header,footer {
+    background-image : url(grey_wash_wall.png);
+    width : 100%;
+    padding : 10px;
+}
+.image {
+    margin-top : 21px;
+    float : left;
+    }
+header .image img
+    {
+    height:60px;
+    }
+.entete{
+    margin-left : 28%;
+    margin-top : 29px;
+}
+main {
+    width : 100%;
+}
+#colonne1 {
+    /*width : 26%;*/
+    max-width : 280px;
+    float : left;
+    margin-top : -16px;
+}
+#colonne2 {
+    /*width : 30%;*/
+    max-width : 310px;
+    margin-left : 30%;
+
+}
+#colonne3 {
+    max-width :370px;
+    float : right;
+    margin-top : -16px ;
+
+    }
+h1  {
+    font-family:Verdana;
+    color:black;
+    font-size : 14px
+    }
+h2  {
+    font-family:Verdana;
+    color:black;
+    font-size : 14px;
+    }
+h3  {
+    font-family:Verdana;
+    color:black;
+    font-size : 13px;
+    }
+ul, li, p {
+    font-family:Verdana;
+    color:black; 
+    font-size : 15px;
+    list-style-type : none;
+    }
+ul {
+    padding : 10px;
+}
+footer 
+    {
+    clear : both;
+    display:inline-block;
+    }
+footer p {
+    float : left;
+    margin-left : 80px;
+    color : #F5F5F5;
+}
+iframe{
+     margin-top : -24px;
+     float : left;
+}
+
+
