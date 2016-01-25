@@ -8,7 +8,7 @@ body {
     margin : 15px;
 }
 header,footer {
-    background-image : url(grey_wash_wall.png);
+    background-image : url(patterns/grey_wash_wall.png);
     width : 100%;
     padding : 10px;
 }
